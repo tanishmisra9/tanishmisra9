@@ -19,6 +19,7 @@ Most recently I was a software engineering co-op at Toyota Motor North America, 
 - [**Securify**](https://github.com/tanishmisra9/securify) — A LangGraph pipeline that redacts PII with a fine-tuned RoBERTa NER model (0.940 micro F1). AlgoFest 2026 semi-finalist.
 - [**Memory Lane**](https://github.com/tanishmisra9/memory-lane) — Music sessions for dementia caregivers, built around the songs from when their person was young. Made for the Qloo Agentic Hackathon.
 - [**f1director**](https://github.com/tanishmisra9/f1director) — A daemon that rotates onboard camera windows in MultiViewer during live F1 races.
+
 ## Off the clock
 
 Formula 1, firmware for Purdue Electric Racing, an autonomous kart with the Electric Vehicle Club, and [photography](https://tanishmisra.com/photos).
