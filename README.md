@@ -20,22 +20,10 @@ Most recently I was a software engineering co-op at Toyota Motor North America, 
 
 ## Toolbox
 
-<table>
-<tr><td><b>Languages</b></td><td><img src="https://skillicons.dev/icons?i=py,java,c,ts&theme=dark" height="40" alt=""><br><sub>Python · Java · C · TypeScript · SQL</sub></td></tr>
-<tr><td><b>AI &amp; data</b></td><td><img src="https://skillicons.dev/icons?i=pytorch,opencv,postgres&theme=dark" height="40" alt=""><br><sub>LangGraph · LangChain · HuggingFace · Anthropic API · OpenAI API · pgvector</sub></td></tr>
-<tr><td><b>Web &amp; infra</b></td><td><img src="https://skillicons.dev/icons?i=react,nextjs,fastapi,tailwind,docker,githubactions,vercel&theme=dark" height="40" alt=""><br><sub>Railway · pytest · Alembic</sub></td></tr>
-<tr><td><b>Embedded &amp; robotics</b></td><td><img src="https://skillicons.dev/icons?i=c,ros,opencv&theme=dark" height="40" alt=""><br><sub>STM32 · CAN · ROS2</sub></td></tr>
-</table>
+<img src="https://skillicons.dev/icons?i=py,ts,java,c,pytorch,postgres,fastapi,react,nextjs,docker&theme=dark" height="44" alt="Python, TypeScript, Java, C, PyTorch, PostgreSQL, FastAPI, React, Next.js, Docker">
+
+<sub>LangGraph · LangChain · HuggingFace · Anthropic API · OpenAI API · pgvector · GitHub Actions · Vercel · Railway</sub>
 
 ## Interests
 
-<table>
-<tr>
-<td width="50%"><b>Formula 1</b><br>Telemetry, strategy and broadcasts. It's behind Telogify and f1director.</td>
-<td width="50%"><b>AI for people</b><br>Systems that help patients and caregivers, like Candle and Memory Lane.</td>
-</tr>
-<tr>
-<td><b>Embedded &amp; autonomy</b><br>Firmware for Purdue Electric Racing and a ROS2 vision node for an autonomous kart.</td>
-<td><b>Photography</b><br>A gallery of my photos at <a href="https://tanishmisra.com/photos">tanishmisra.com/photos</a>.</td>
-</tr>
-</table>
+Formula 1 (it's behind Telogify), AI that helps patients and caregivers, and [photography](https://tanishmisra.com/photos).
