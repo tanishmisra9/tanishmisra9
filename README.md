@@ -6,7 +6,7 @@
 <a href="https://www.candleforchm.org">candle</a>
 </samp>
 
-# Tanish Misra
+# Hey, I'm Tanish.
 
 I like building systems that reach people. I'm a computer science student at Purdue (Machine Intelligence & Security, Statistics minor), mostly working on AI that has to hold up against messy data and real-world constraints.
 
