@@ -26,4 +26,4 @@ Most recently I was a software engineering co-op at Toyota Motor North America, 
 
 ## Interests
 
-Formula 1 (it's behind Telogify), AI that helps patients and caregivers, and [photography](https://tanishmisra.com/photos).
+Formula 1 (it's behind Telogify), AI that helps real people, and [photography](https://tanishmisra.com/photos).
