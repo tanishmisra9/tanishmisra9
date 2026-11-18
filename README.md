@@ -16,8 +16,6 @@ Most recently I was a software engineering co-op at Toyota Motor North America, 
 
 - [**Telogify**](https://github.com/tanishmisra9/telogify) — F1 telemetry intelligence. A LangGraph agent writes race-weekend insights from deterministic Postgres tools, and every number it cites is validated against query results.
 - [**Candle**](https://github.com/tanishmisra9/candle) — A research dashboard for choroideremia: clinical trials, publications, and plain-English questions. Adopted by CureCHM as its official patient resource.
-- [**Memory Lane**](https://github.com/tanishmisra9/memory-lane) — Reminiscence music sessions for dementia caregivers: songs, films and shows from when they were young, found with Qloo.
-- [**Receipts**](https://github.com/tanishmisra9/receipts-skin) — Skincare advice that's allowed to say no. Every product on a shelf gets a Match, Partial or Skip from your own skin scan, at [receipts-skin.vercel.app](https://receipts-skin.vercel.app).
 - [**tanishmisra.com**](https://tanishmisra.com) — My portfolio, photography gallery and blog, built with Next.js and TypeScript. Source on [GitHub](https://github.com/tanishmisra9/portfolio).
 
 ## Toolbox
