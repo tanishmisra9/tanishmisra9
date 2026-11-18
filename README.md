@@ -14,7 +14,7 @@ Most recently I was a software engineering co-op at Toyota Motor North America, 
 
 ## Selected work
 
-- [**Telogify**](https://github.com/tanishmisra9/telogify) — F1 telemetry intelligence. A LangGraph agent writes race-weekend insights from deterministic Postgres tools, and every number it cites is validated against query results.
+- [**Telogify**](https://www.telogify.com) — F1 telemetry intelligence. A LangGraph agent writes race-weekend insights from deterministic Postgres tools, and every number it cites is validated against query results. [Source on GitHub](https://github.com/tanishmisra9/telogify).
 - [**Candle**](https://www.candleforchm.org) — A research dashboard for choroideremia: clinical trials, publications, and plain-English questions. Adopted by CureCHM as its official patient resource. [Press release](https://www.einpresswire.com/article/918493577/choroideremia-research-foundation-highlights-candle-a-patient-developed-resource-hub-advancing-access-to-chm-research) · [Source on GitHub](https://github.com/tanishmisra9/candle).
 - [**tanishmisra.com**](https://tanishmisra.com) — My portfolio, photography gallery and blog, built with Next.js and TypeScript. Source on [GitHub](https://github.com/tanishmisra9/portfolio).
 
